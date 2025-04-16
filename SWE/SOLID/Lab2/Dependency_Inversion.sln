@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamLead", "TeamLead\TeamLead.csproj", "{2CBCD589-61D5-43B1-920C-220A2D238E13}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLFile", "SQLFile\SQLFile.csproj", "{8952D377-7F2B-4BF1-AC7D-D4F35A3C1CD6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoredSQLFile", "RefactoredSQLFile\RefactoredSQLFile.csproj", "{F6D9A2E4-8EA9-4578-8800-962FB4F3FB52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC", "IoC\IoC.csproj", "{5A3ED02A-47FD-4F5C-A911-2D6D7E867B75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F6D9A2E4-8EA9-4578-8800-962FB4F3FB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D9A2E4-8EA9-4578-8800-962FB4F3FB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D9A2E4-8EA9-4578-8800-962FB4F3FB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3ED02A-47FD-4F5C-A911-2D6D7E867B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3ED02A-47FD-4F5C-A911-2D6D7E867B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3ED02A-47FD-4F5C-A911-2D6D7E867B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3ED02A-47FD-4F5C-A911-2D6D7E867B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
